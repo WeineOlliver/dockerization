@@ -1,4 +1,4 @@
-FROM gitpod/workspace-mongodb
+FROM docker
                     
 USER gitpod
 
